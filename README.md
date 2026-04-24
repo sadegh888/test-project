@@ -6,3 +6,4 @@ fix errors
 add project details
 improbe description
 fix minor issues
+update README content
