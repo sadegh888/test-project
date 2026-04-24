@@ -1,2 +1,3 @@
 # test-project
-this is a test for my project
+this is a test for my project 
+more information coming soon ...
