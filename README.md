@@ -5,3 +5,4 @@ update content
 fix errors
 add project details
 improbe description
+fix minor issues
